@@ -32,3 +32,6 @@ DebugConfig/
 *.swp
 Thumbs.db
 Desktop.ini
+
+# === Claude Code 本机工作目录 ===
+.claude/
